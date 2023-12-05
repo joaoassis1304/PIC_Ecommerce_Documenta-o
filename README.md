@@ -1,1 +1,1 @@
-# PIC_Ecommerce_Documenta-o
+# Documentação do Projeto Integrador Transdiciplinar de Engenharia de Software 2
