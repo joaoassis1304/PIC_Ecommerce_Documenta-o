@@ -1,1 +1,1 @@
-# Documentação do Projeto Integrador Transdiciplinar de Engenharia de Software 2
+# Documentação do Projeto Integrador Transdisciplinar de Engenharia de Software 2
